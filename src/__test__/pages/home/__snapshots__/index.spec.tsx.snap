@@ -6,9 +6,7 @@ exports[`Home Page render homepage component 1`] = `
     <h1>
       Home
     </h1>
-    <button>
-      text
-    </button>
+    <button />
   </div>
 </div>
 `;
